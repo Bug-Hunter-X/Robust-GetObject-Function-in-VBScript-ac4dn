@@ -1,0 +1,1 @@
+This repository contains a VBScript example demonstrating a common issue with the GetObject function and its improved, more robust solution.  The bug arises when trying to access an object (e.g., Excel Application) that isn't already running. The solution gracefully handles the error and attempts to create the object if necessary.
